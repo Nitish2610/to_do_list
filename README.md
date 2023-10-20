@@ -10,4 +10,4 @@ This is a straightforward Todo List application created to help you keep track o
 
 ## Demo
 
-Check out the live demo of the website: []
+Check out the live demo of the website: [https://nitish2610.github.io/to_do_list/]
